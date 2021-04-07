@@ -2,7 +2,7 @@
 
 
 # AI drawing
-
+- Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale. AAAI. 2021. 
 
 
 
